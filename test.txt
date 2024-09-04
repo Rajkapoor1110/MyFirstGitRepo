@@ -8,3 +8,6 @@
 04-09-2024  07:17                 0 test.txt
                1 File(s)              0 bytes
                2 Dir(s)  365,452,378,112 bytes free
+
+
+This is my first code file
